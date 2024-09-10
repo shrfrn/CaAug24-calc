@@ -6,6 +6,7 @@ var operator = ''
 
 var x = 9
 var y = 8
+var z = 10
 
 function onNumClick(elCell) {
     if(!num1) num1 = +elCell.innerText
